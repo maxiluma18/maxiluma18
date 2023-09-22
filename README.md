@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
-<h3 align="center">a developer in constant growth from Argentina</h3>
+<h3 align="center">A developer in constant growth from Argentina</h3>
 
 - 📫 How to reach me **maxilucasmartinez18@gmail.com**
 
