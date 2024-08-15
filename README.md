@@ -5,12 +5,15 @@
 
 - Work in [JavaScript final project](https://github.com/maxiluma18/ProyectoFinal-js)
 
+- Work in [React final project](https://github.com/maxiluma18/ProyectoFinal-Reactjs)
+
 - 📫 How to reach me **maxilucasmartinez18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maxilm_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maxilm_18" height="30" width="40" /></a>
-<a href="https://instagram.com/maxilm_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxilm_18" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maximiliano-lucas-martinez-72921a297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Maximiliano Lucas Martinez" height="30" width="40" /></a>
+<a href="https://twitter.com/maxxi_martinezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maxxi_martinezz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maxxi.martinezz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxxi.martinezz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
