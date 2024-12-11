@@ -7,8 +7,8 @@
 
 - Work in [HumanCare Backend](https://github.com/SusanoJuicio/humancare-backend/tree/main)
 
-- Work in [Subaaton](https://github.com/maxiluma18/ProyectoFinal-Reactjs) - [Visit the site](https://subaaton.vercel.app/)
-- 
+- Work in [Subaaton](https://github.com/maxiluma18/ProyectoFinal-Reactjs) - [Visit the site](https://subaaton.vercel.app/)+
+  
 - Work in [Final web development project](https://github.com/maxiluma18/ProyectoFinal-DW)
 
 - Work in [JavaScript final project](https://github.com/maxiluma18/ProyectoFinal-js)
