@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Maxiluma18</h1>
 <h3 align="center">A developer in constant growth from Argentina</h3>
 
+- Work in [Portfolio](https://github.com/maxiluma18/My_Portfolio) - [Visit the site](https://maximartinez.vercel.app/)
+
+- Work in [HumanCare Frontend](https://github.com/SusanoJuicio/human-care-repo) - [Visit the site](https://humancarefishingfoundation.vercel.app/)
+
+- Work in [HumanCare Backend](https://github.com/SusanoJuicio/humancare-backend/tree/main)
+
+- Work in [Subaaton](https://github.com/maxiluma18/ProyectoFinal-Reactjs) - [Visit the site](https://subaaton.vercel.app/)
+- 
 - Work in [Final web development project](https://github.com/maxiluma18/ProyectoFinal-DW)
 
 - Work in [JavaScript final project](https://github.com/maxiluma18/ProyectoFinal-js)
-
-- Work in [React final project](https://github.com/maxiluma18/ProyectoFinal-Reactjs)
 
 - 📫 How to reach me **maxilucasmartinez18@gmail.com**
 
