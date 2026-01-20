@@ -11,6 +11,8 @@
 
 - Work in [JavaScript final project](https://github.com/maxiluma18/ProyectoFinal-js)
 
+- And more...
+
 - 📫 How to reach me **maxilucasmartinez18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
