@@ -9,8 +9,6 @@
   
 - Work in [Final web development project](https://github.com/maxiluma18/ProyectoFinal-DW)
 
-- Work in [JavaScript final project](https://github.com/maxiluma18/ProyectoFinal-js)
-
 - And more...
 
 - 📫 How to reach me **maxilucasmartinez18@gmail.com**
